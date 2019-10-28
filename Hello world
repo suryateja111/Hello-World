@@ -11,12 +11,13 @@ return 0;
 using namespace std;
 int main()
 {
-cout << "Hello World\n";
+cout << "Hello World!!\n";
+cout<<"welcome to the programming world";
 return 0;
 }
 
 //For python language
-print("Hello, World")
+print("Hello!! World")
 
 //For java language
 class HelloWorld {
