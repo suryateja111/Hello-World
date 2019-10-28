@@ -10,8 +10,12 @@ return 0;
 #include<iostream>
 using namespace std;
 int main()
-{
+{   
+ int sum=0;
+ for(sum=0;sum<5;sum++)
+{ 
 cout << "Hello World\n";
+}
 return 0;
 }
 
